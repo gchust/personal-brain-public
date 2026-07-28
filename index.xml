@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Personal Brain Public Notes</title>
+      <link>https://gchust.github.io/personal-brain-public</link>
+      <description>最近的10条笔记 on Personal Brain Public Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Personal Brain Public Notes</title>
+    <link>https://gchust.github.io/personal-brain-public/</link>
+    <guid>https://gchust.github.io/personal-brain-public/</guid>
+    <description><![CDATA[ Personal Brain Public Notes 这里仅发布经过人工确认、同时位于公开目录并标记为公开的内容。 私人笔记、内部附件、操作元数据和跨私人链接不会进入发布 staging 或静态站点。. ]]></description>
+    <pubDate>Tue, 28 Jul 2026 13:45:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
